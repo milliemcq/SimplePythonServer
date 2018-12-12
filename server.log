@@ -1,0 +1,10 @@
+2018-12-09 17:43:01,745 INFO MainThread starting up on localhost port 10004
+2018-12-09 17:43:01,746 INFO MainThread waiting for a connection
+2018-12-09 17:43:02,902 INFO MainThread Incoming client request from ('127.0.0.1', 61956)
+2018-12-09 17:43:02,902 INFO MainThread Successful Connection from ('127.0.0.1', 61956)
+2018-12-09 17:43:05,280 INFO MainThread received "b'raiders'"
+2018-12-09 17:43:05,281 INFO MainThread sending data b"['indian reservation']" back to the client
+2018-12-09 17:43:07,168 INFO MainThread received "b'quit'"
+2018-12-09 17:43:07,168 INFO MainThread The client was connected for 4.26624608039856 seconds
+2018-12-09 17:43:07,168 INFO MainThread The client has disconnected
+2018-12-09 17:43:07,169 INFO MainThread Closing the connection

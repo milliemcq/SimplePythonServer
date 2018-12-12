@@ -1,0 +1,8 @@
+2018-12-09 17:43:02,899 INFO MainThread connecting to localhost port 10004
+2018-12-09 17:43:02,902 INFO MainThread Connection to the Server at port ('localhost', 10004) successful
+2018-12-09 17:43:05,280 INFO MainThread sending "raiders"
+2018-12-09 17:43:05,281 INFO MainThread Data successfully received by the server
+2018-12-09 17:43:05,281 INFO MainThread Server response recieved
+2018-12-09 17:43:05,281 INFO MainThread The server took 0.0005929470062255859 to respond to the request
+2018-12-09 17:43:05,281 INFO MainThread The response length was 71 bytes
+2018-12-09 17:43:05,281 INFO MainThread received "['indian reservation']"

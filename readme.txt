@@ -1,0 +1,1 @@
+In order to run my program you must type THIS into the terminal to start the server, followed by THIS to start the client. The instructions to test the system should then be displayed on the screen. Start by inputting an artist name in the client terminal window.
